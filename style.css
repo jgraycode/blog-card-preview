@@ -58,7 +58,7 @@ main {
 }
 
 .bold {
-  font-weight: 900;
+  font-weight: 800;
   font-size: 14px;
 }
 
@@ -81,7 +81,7 @@ main {
 .blog-title {
   font-size: 24px;
 
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .blog-description {
